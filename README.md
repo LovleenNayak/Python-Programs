@@ -1,1 +1,1 @@
-# Python-Programs
+Short Python programs for practice
